@@ -15,6 +15,8 @@ At the end of the project, students will be able to:
 
 ## Content
 
+[Assignment 2 Image Processing](Assignment 2 Image Processing.pdf)
+
 [Assignment 3 Using SV D for Compression](Assignment 3 Using SV D for Compression.md)
 
 [Assignment 4 Background Recovery](Assignment 4 Background Recovery.md)
