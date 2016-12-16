@@ -16,3 +16,5 @@ At the end of the project, students will be able to:
 ## Content
 
 [Assignment 5 Face Recognition](Assignment 5 Face Recognition.md)
+
+[Assignment 4 Background Recovery](Assignment 4 Background Recovery.md)
