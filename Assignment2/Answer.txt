@@ -1,2 +1,0 @@
-k < 50, images with different values are very different
-k > 150, images with different varies from one to other a little
