@@ -1,0 +1,2 @@
+	The folder, named ¡°hw5¡±, contains all the Python code required by this assignment.
+	The file, named ¡°Assignment5.word¡± is my answer of the following questions for this assignment.
